@@ -46,7 +46,6 @@
         "chai": "^4.3.6",
         "chai-http": "^4.3.0",
         "coveralls": "^3.1.1",
-        "gitinspector": "^0.5.0-dev-2",
         "http-request-mock": "^1.8.2",
         "jest": "^27.4.7",
         "jest-extended": "^1.1.0",
